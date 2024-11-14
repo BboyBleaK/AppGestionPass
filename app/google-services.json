@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768473016495",
+    "project_id": "appgestionpass",
+    "storage_bucket": "appgestionpass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768473016495:android:f50629daa51f00c1384c5a",
+        "android_client_info": {
+          "package_name": "com.example.appgestionpass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdoYn1qxq8wmWLSacZKpt4nwMKn5fcWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
